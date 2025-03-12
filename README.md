@@ -17,6 +17,8 @@ The project aims to **optimize survey campaigns** by predicting the best doctors
 ---
 
 ## 📸 Demo
+![website_demo](https://github.com/user-attachments/assets/6a12eec3-5035-4ad7-9a89-7594e33434a8)
+
 ![Screenshot 2025-03-13 000035](https://github.com/user-attachments/assets/8aed9201-a48c-4df7-a93d-bb19bec6f0cb)
 
 ![Screenshot 2025-03-13 000139](https://github.com/user-attachments/assets/e3af920e-ecf5-4a34-b05a-4d2106969673)
@@ -50,7 +52,6 @@ The project aims to **optimize survey campaigns** by predicting the best doctors
 ├── 📜 **app.py**                    # Flask application logic  
 ├── 📜 **requirements.txt**          # Python dependencies  
 ├── 📜 **README.md**                 # Project documentation  
-├── 📜 **website_demo.mp4**          # Demo Video of how this web page work 
 └── 📜 **report.pdf**                # Detailed project report  
 
 ---
