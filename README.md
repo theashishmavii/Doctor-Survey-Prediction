@@ -17,7 +17,8 @@ The project aims to **optimize survey campaigns** by predicting the best doctors
 ---
 
 ## 📸 Demo
-![Screenshot of Application](https://github.com/user-attachments/assets/1234abcd-demo-image.png)
+![Screenshot 2025-03-13 000139](https://github.com/user-attachments/assets/e3af920e-ecf5-4a34-b05a-4d2106969673)
+
 
 ---
 
@@ -38,7 +39,6 @@ The project aims to **optimize survey campaigns** by predicting the best doctors
 
 📦 **Doctor-Survey-Predictor**  
 ├── 📂 **static/**                 # CSS and video animations  
-│   ├── 📜 **style.css**             # Custom styling  
 │   ├── 📜 **Video.mp4**             # Background heartbeat animation  
 ├── 📂 **templates/**               # HTML template  
 │   ├── 📜 **index.html**             # Main user interface  
@@ -48,6 +48,7 @@ The project aims to **optimize survey campaigns** by predicting the best doctors
 ├── 📜 **app.py**                    # Flask application logic  
 ├── 📜 **requirements.txt**          # Python dependencies  
 ├── 📜 **README.md**                 # Project documentation  
+├── 📜 **website_demo.mp4**          # Demo Video of how this web page work 
 └── 📜 **report.pdf**                # Detailed project report  
 
 ---
@@ -58,13 +59,8 @@ To deploy on **Render**, **Heroku**, or **Vercel**, follow their respective depl
 
 ---
 
-## 📋 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
-**Ashish Mavi**
+**Ashish Kumar**
 
 For queries or improvements, feel free to reach out! 😊
 
