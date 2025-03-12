@@ -8,7 +8,7 @@ from imblearn.over_sampling import SMOTE
 import joblib
 
 # Load data
-data = pd.read_excel("C:/Internshala Project/data/dummy_npi_data.xlsx")
+data = pd.read_excel("dummy_npi_data.xlsx")
 
 # Data Cleaning
 data.dropna(inplace=True)
