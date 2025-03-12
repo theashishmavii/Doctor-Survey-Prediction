@@ -15,9 +15,12 @@ The project aims to **optimize survey campaigns** by predicting the best doctors
 ✅ **Accurate Predictions** – Powered by a trained **Random Forest Classifier** model.  
 
 ---
+## 🌐 Live Demo  
+[Doctor Survey Predictor - Live Deployment](https://doctor-survey-prediction-2.onrender.com) 🚀
+
+---
 
 ## 📸 Demo
-![website_demo](https://github.com/user-attachments/assets/6a12eec3-5035-4ad7-9a89-7594e33434a8)
 
 ![Screenshot 2025-03-13 000035](https://github.com/user-attachments/assets/8aed9201-a48c-4df7-a93d-bb19bec6f0cb)
 
