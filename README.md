@@ -17,6 +17,8 @@ The project aims to **optimize survey campaigns** by predicting the best doctors
 ---
 
 ## 📸 Demo
+![Screenshot 2025-03-13 000035](https://github.com/user-attachments/assets/8aed9201-a48c-4df7-a93d-bb19bec6f0cb)
+
 ![Screenshot 2025-03-13 000139](https://github.com/user-attachments/assets/e3af920e-ecf5-4a34-b05a-4d2106969673)
 
 
